@@ -1,7 +1,7 @@
 version: 0.2
 env:
  parameter-store:
-    LOGIN: LOGIN
+    LOGIN: SonarCloudToken
     HOST: HOST
     Organization: organization
     Project: Project
